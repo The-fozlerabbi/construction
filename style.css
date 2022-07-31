@@ -1,0 +1,1104 @@
+
+/* ১ম খন্ড  হিরো পেজ */
+
+#hero{
+    width: 100%;
+    height: 700px;
+    background: url(https://images01.nicepage.com/2c/aa/2caae017a61202f87bc36fab57e85a63.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+@media(min-width:576px) and (max-width){
+    #hero{
+        
+    }
+
+
+}
+#hero .overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+#hero .aside {
+    width: 800px;
+    height: 400px;
+    padding-top: 264px;
+    margin-left: 147px;
+    
+}
+#hero .subtitle{
+    color: #f4cb08;
+    font-weight: 400;
+    font-size: 35px;
+   
+}
+#hero .title{
+    line-height: 84px;
+    color: white;
+    font-weight: 700;
+    font-size: 45px;
+}
+#hero .border{
+    margin-left: 0px;
+    width: 200px;
+    height: 2px;
+    background-color: #f4cb08;
+    margin-top: 30px;
+}
+#hero .write{
+    padding-top: 30px;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    padding-bottom: 50px;
+}
+#hero .button .one{
+    height: 40px;
+    width: 140px;
+    border-radius: 3px;
+    background-color: #f4cb08;
+    color: white;
+}
+#hero .button .one:hover{
+    color: rgba(0, 0, 0, 0.342);
+    background-color: #f4cb08;
+    background-color: rgba(0, 0, 0, 0.578);
+
+}
+
+.link{
+    text-decoration: none;
+    color:white
+}
+.button .two:hover{
+    color: black;
+    background-color: white;
+}
+.button .two{
+    height: 40px;
+    width: 140px;
+    border-radius: 3px;
+    background-color:#00000023;
+    color: white;
+    border: 2px solid white;
+    margin-left: 60px;
+}
+.linktwo{
+    color: black;
+    text-decoration: none;
+}
+
+#hero .bside {
+    background: url(https://images02.nicepage.com/e3/6e/e36e61f2185bd84c29cebb9e46a4df90.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 606px;
+    width: 372px;
+    float: right;
+    margin-right: 110px;
+    margin-top: 129px;
+    margin-left: auto;
+    margin-top: -570px;
+}
+
+
+
+/* ২য় খন্ড ওয়েলকাম */
+
+#welcome .aside{
+    width: 700px;
+    height: 500px;
+    display: inline-block;
+    padding-top: 100px;
+}
+#welcome .bside {
+    width: 500px;
+    height: 600px;
+    display: inline-block;
+    float: right;
+    margin-right: 97px;
+}
+#welcome .aside h2 {
+    color: #f4cb08;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 140px;
+}
+#welcome .aside h1 {
+    font-weight: 700;
+    /* font-size: 48px; */
+    /* font-family: arial black; */
+    font-size: 2.45rem;
+    margin-left: 140px;
+    line-height: 55px;
+}
+#welcome .border{
+    width: 100px;
+    height: 2px;
+    background-color: #f4cb08;
+    margin-left: 140px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#welcome p {
+    margin-left: 140px;
+    font-style: italic;
+    font-size: 30px;
+    color: #00000099;
+}
+#welcome .bside .write{
+    padding-top: 100px;
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 0px;
+
+}
+#welcome .button {
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: #f4cb08;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-radius: 3px;
+}
+#welcome .button:hover{
+    background-color: rgba(16, 13, 13, 0.616);
+
+}
+/* ৩য় খন্ড ছবি */
+#picture{
+    width: 100%;
+    height: 297px;
+    margin-top: 100px;
+}
+#picture .first {
+    width: 490px;
+    height: 280px;
+    display: inline-block;
+    margin-left: 0px;
+    background: url(https://images01.nicepage.com/bf/37/bf37f8217e4b71feb26707d632c6845d.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: -1px;
+}
+#picture .overlayfirst {
+    height: 300px;
+    width: 489px;
+    background-color: rgba(0, 0, 0, 0.45);
+}
+
+#picture .first .overlayfirst .write {
+    width: 486px;
+    height: 298px;
+    border: 1px solid black;
+    color: white;
+    margin-top: 1px;
+}
+#picture .write h2 {
+    margin-top: 150px;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 30px;
+}
+#picture .write .border {
+    margin-top: 5px;
+    width: 100px;
+    height: 2px;
+    background-color: #f4cb08;
+    margin-left: 0px;
+    margin-left: 30px;
+}
+ #picture .write p{
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 25px;
+} 
+#picture .second{
+    width: 495px;
+    height: 300px;
+    display: inline-block;
+    margin-left: -4px;
+    background: url(https://images01.nicepage.com/45/78/457883519366bc77e9ffb4294b44f8df.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    float: center;
+    
+}
+#picture .overlaysecond{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.45);
+
+}
+#picture .overlaysecond .write{
+    width: 493px;
+    height: 296px;
+   border: 1px solid black;
+    color: white;
+}
+#picture .overlaysecond h3{
+    margin-top: 150px;
+    font-weight: 700;
+    font-size: 27px;
+    margin-left: 30px;
+    word-spacing: 2px;
+}
+#picture .overlaysecond .write .border {
+    margin-top: 5px;
+    width: 100px;
+    height: 2px;
+    background-color: #f4cb08;
+    margin-left: 0px;
+    margin-left: 30px;
+}
+#picture .overlaysecond .write .p{
+    margin-top: 10px;
+    font-size: 18px;
+    margin-left: 36px;
+}
+
+#picture .third{
+    width: 523px;
+    height: 300px;
+    display: inline-block;
+    margin-left: -4px;
+    background: url(https://images01.nicepage.com/35/97/35970472e6f88da51190947c84ba6f2a.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    float: right;
+    margin-right: 2px;
+   
+}
+#picture .overlaythird{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.45);
+}
+#picture .overlaythird .write {
+    width: 522px;
+    height: 298px;
+    border: 1px solid black;
+    color: white;
+}
+#picture .overlaythird h2{
+    margin-top: 150px;
+    font-weight: 700;
+    font-size: 27px;
+    margin-left: 30px;
+    word-spacing: 2px;
+}
+
+
+ /* ৪র্থ খন্ড অফার  */
+h4{
+    color: #f4cb08;
+    font-size: 30px;
+    text-align: center;
+}
+.nine{
+    font-size: 40px;
+    line-height: 5px;
+    text-align: center;
+    color: black;
+}
+.border{
+    height: 2px;
+    width: 100px;
+    background-color: #f4cb08;
+    margin-top: 50px;
+    margin-left: 713px;
+}
+ .box{
+    width: 1400px;
+    height: 210px;
+    display: flex;
+    justify-content: center;
+  
+}
+.small{
+    width: 400px;
+    height: 200px;
+    margin-right: 20px;
+  
+    
+   
+
+}
+.smallbox{
+    width: 80px;
+    height: 80px;
+    border: 3px solid #f4cb08;
+    display: inline-block;
+    margin-top: 40px;
+    border-radius: 9px;
+   
+    
+}
+
+.largebox {
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 92px;
+    margin-top: -96px;
+}
+h3{
+    font-size: 20px;
+    word-spacing: 3px;
+}
+.boxsecond{
+    width: 1400px;
+    height: 210px;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+}
+.smallone{
+    width: 90px;
+    height: 90px;
+    border: 3px solid #f4cb08;
+    display: inline-block;
+    margin-top: 40px;
+    border-radius: 9px;
+    margin-top: 20px;
+}
+.largeone{
+    width: 300px;
+    height: 200px;
+     margin-left: 20px;
+    display: inline-block;
+}
+
+.picfour{
+  
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.picsix{
+  
+    margin-left: 14px;
+    margin-top: 14px;
+}
+.picthree{
+  
+    margin-left: 14px;
+    margin-top: 10px;
+}
+.se{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.em{
+    margin-left: 11px;
+    margin-top: 14px;
+}
+.p {
+    margin-left: 4px;
+    margin-top: 7px;
+}
+
+/* ৫ম খন্ড প্রোটফোলিও */
+
+.portfolio{
+    width: 100%;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.796);
+}
+h4{
+    color: #f4cb08;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+    line-height: 20px;
+    margin-bottom: 10px;
+    padding-top: -12px;
+}
+.recent{
+    color: white;
+    word-spacing: 3px;
+    text-align: center;
+    font-size: 30px;
+
+    
+}
+.border_h{
+    width: 100px;
+    height: 2px;
+    background-color:#f4cb08 ;
+    margin-top: 0px;
+
+}
+
+/* ৬ষ্ঠ খন্ড ছবি */
+#image{
+    width: 100%;
+    height: 600px;
+  
+    
+}
+.oneside{
+    width: 100%;
+    height: 300px;
+  
+    display: flex;
+    justify-content: center;
+}
+.oneside.one {
+    width: 381px;
+    height: 300px;
+   
+   
+   
+}
+.oneimg{
+    height: 300px;
+    width: 376px;
+}
+.oneside.two{
+    width: 381px;
+    height: 300px;
+  
+}
+.oneside.three{
+    width: 381px;
+    height: 300px;
+    
+}
+.four{
+    width: 381px;
+    height: 300px;
+ 
+}
+.secondside{
+    width: 100%;
+    height: 300px;
+   
+    display: flex;
+    justify-content: center;
+}
+.one{
+    width: 381px;
+    height: 300px;
+   
+}
+.two{
+    width: 381px;
+    height: 300px;
+    
+}
+.three{
+    width: 381px;
+    height: 300px;
+
+}
+.four{
+    width: 381px;
+    height: 300px;
+  
+}
+/* ৭ম খন্ড ওয়াল্ড */
+
+#theworld{
+    width: 100%;
+    height: 400px;
+    padding-top: 90px;
+}
+  
+.b{
+    width: 530px;
+    height: 393px;
+    display: inline-block;
+    background: fixed;
+   margin-left: 850px;
+   margin-top: -310px;
+}
+.b h3{
+    font-size: 25px;
+    font-weight: 700;
+    color: #f4cb08;
+}
+.b h1{
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 25px;
+    margin-left: -10px;
+}
+.b .border{
+    width: 100px;
+    height: 2px;
+    background-color: #f4cb08;
+    margin-left: 0px;
+   
+}
+.b p{
+    padding-top: 30px;
+}
+.b .button{
+    height: 40px;
+    width: 150px;
+    color: white;
+    background-color: #f4cb08;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-radius: 3px;
+ 
+}
+.b .button:hover{
+    background-color: rgba(16, 13, 13, 0.616);
+
+}
+.imag{
+    height: 300px;
+    width: 500px;
+    margin-left: 280px;
+}
+
+/* ৮ম খন্ড */
+#square_box{
+    width: 100%;
+    height: 400px;
+    background: url(https://images01.nicepage.com/23/2c/232c6d839624da0ae42d0f0b813ed0e8.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.pic_overlay{
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+}
+.pic_boxone{
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+    margin-left: 60px;
+}
+.pic_boxtwo{
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+    margin-left: 99px;
+
+}
+.pic_boxthree{
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+    float:right;
+}
+.pic_boxfour{
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+    float:right;
+    margin-right: 80px;
+}
+.number{
+    color: #f4cb08;
+    font-size: 40px;
+    margin-left: 30px;
+}
+.number_write{
+    font-size: 20px;
+   
+}
+.number_border{
+    width: 100px;
+    height: 2px;
+    background-color: #f4cb08;
+    margin-left: 27px;
+    margin-top: 30px;
+}
+.box_write{
+    margin-left:139px;
+    padding-top: 70px;
+}
+.box_writetwo{
+    margin-left:70px;
+    padding-top: 70px;
+}
+.box_writethree{
+    margin-left:-84px;
+    padding-top: 70px;
+}
+.box_writefour{
+    padding-top: 70px;
+    margin-left: 12px;
+}
+.number_writefour{
+    font-size: 20px;
+   
+  
+
+} 
+
+
+/* ৯ম খন্ড */
+
+#step{
+   width: 100%;
+   height: 400px;
+   margin-top: 70px;
+ 
+}
+.step_title{
+    width: 100%;
+    height: 180px;
+ 
+    
+}
+.step_subtitle{
+    font-weight: 400;
+    color: #f4cb08;
+    text-align: center;
+    font-size: 30px;
+    margin-top: -0px;
+}
+.step_t{
+    text-align: center;
+    font-family: arial black;
+    font-size: 30px;
+    margin-top: -5px;
+    line-height: 20px;
+  padding-bottom: 20px;
+}
+.step_border{
+    width: 100px;
+    height: 2px;
+    background-color: #f4cb08;
+  
+}
+.first{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}
+.small{
+    height: 100px;
+    width: 100px;
+    margin: 0px auto;
+}
+.large{
+    width: 300px;
+    height: 250px;
+ 
+}
+.imgone{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.p{
+    font-weight: 500;
+    font-size: 30px;
+    text-align: center;
+}
+.spwrite{
+  text-align: center;
+  font-size: 17px;
+}
+.step_boxone{
+    text-align: center;
+}
+
+/* ১০ম খন্ড */
+#testimonials{
+    width: 100%;
+    height: 700px;
+    background-color: #000000c4;
+}
+.writee{
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 50px;
+    color: #f4cb08;
+   
+}
+
+.ttt{
+    font-size: 40px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+}
+.hrr{
+    width: 100px;
+    height: 2px;
+    background-color: #f4cb08;
+    margin-bottom: 40px;
+}
+.boxxone{
+    width: 300px;
+    height: 150px;
+    border: 1px solid white;
+    display: inline-block;
+   margin-left: 250px;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    word-spacing: 3px;
+    text-align: center;
+    padding-top: 40px;
+
+  
+}
+.boxxtwo{
+    width: 300px;
+    height: 150px;
+    border: 1px solid white;
+    display: inline-block;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    word-spacing: 3px;
+    text-align: center;
+    margin-left: 40px;
+    padding-top: 40px;
+
+
+  
+}
+
+.boxxthree{
+    width: 300px;
+    height: 150px;
+    border: 1px solid white;
+    display: inline-block;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    word-spacing: 3px;
+    text-align: center;
+    margin-left: 40px;
+    padding-top: 40px;
+  
+}
+
+.mandivone{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 300px;
+}
+.mandivtwo{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 140px;
+
+}
+.mandivthree{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 135px;
+ 
+}
+.bor{
+   height: 100px;
+   width: 100px;
+   margin-top: -30px;
+   margin-left: 50px;
+}
+.bortwo{
+   height: 100px;
+   width: 100px;
+   margin-top: -10px;
+   margin-left: 70px;
+}
+.borthree{
+   height: 100px;
+   width: 100px;
+   margin-top: -30px;
+   margin-left: 50px;
+   margin-top: -21px;
+   position: relative;
+   margin-top:-80px ;
+}
+img.imgborthree {
+    position: relative;
+    margin-top: -40px;
+    margin-left: 10px;
+}
+.boroneimg {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    position: relative;
+    margin-top: -40px;
+    margin-left: 10px;
+}
+.borimgtwo{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    position: relative;
+    margin-top: -40px;
+  
+}
+.imgborthre{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+   margin-top: 20px;  
+}
+.mike {
+    color: white;
+    text-align: center;
+    word-spacing: 3px;
+    font-size: 25px;
+    margin-top: -30px;
+    margin-left: 26px;
+}
+.art{
+    font-size: 25px;
+    text-align: center;
+    color:#f4cb08;
+    margin-top: -10px;
+    margin-left: 25px;
+}
+
+/* ১১তম খন্ড */
+
+#ring{
+    width: 100%;
+    height: 200px;
+    background-color: #000000e8;
+}
+.ringone{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin-left: 120px;
+  
+}
+.ringtwo{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.ringthree{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.ringfour{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.ringfive{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.ringsix{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.imgringone{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+/* খন্ড ১২ */
+.blog{
+    font-weight: 400;
+    font-size: 35px;
+    color: #f4cb08;
+    text-align: center;
+    line-height: 20px;
+}
+.twoba{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+    padding-bottom: 10px;
+    
+}
+.h{
+    width: 100px;
+    height: 2px;
+    background-color: #f4cb08;
+}
+.divonefirst{
+    width: 350px;
+    height: 300px;
+    display: inline-block;
+    background: url(https://images01.nicepage.com/ed/81/ed81ebf732fec2e03d496bca9314f258.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+.divtwosecond{
+    width: 350px;
+    height: 300px;
+    display: inline-block;
+    background: url(https://images01.nicepage.com/fc/c6/fcc6b22e1ce851ad1ffee68a386f9d89.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+.divthree{
+    width: 350px;
+    height: 300px;
+    display: inline-block;
+    background: url(https://images01.nicepage.com/47/e9/47e9872033581723cf1877c5bd01f314.png);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.firstonefiv{
+    width: 350px;
+    height: 300px;
+    display: inline-block;
+}
+.firstonesix{
+    width: 350px;
+    height: 300px;
+    display: inline-block;
+}
+.firstoneseven{
+    width: 350px;
+    height: 300px;
+    display: inline-block;
+  
+  
+}
+.great{
+    color: black;
+    font-weight: 300;
+    margin-bottom: -15px;
+    margin-left: -33px;
+}
+.nineteen{
+    color: rgba(0, 0, 0, 0.4);
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: -92px;
+  
+}
+.sample{
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+    margin-top: -20px;
+    margin-left: 16px;
+}
+
+.href{
+    color: black;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: -175px;
+
+
+}
+.conone{
+    margin-left: 10px;
+}
+.contwo{
+    margin-left: 10px;
+}
+.bordero{
+    width: 70px;
+    height: 1px;
+    background-color: black;
+    margin-left: 30px;
+}
+
+/* খন্ড ১৩ */
+
+.divye{
+    width: 100%;
+    height: 300px;
+     border: 3px solid yellow; 
+    background-color: #f4cb08;
+}
+.boxright{
+    width: 200px;
+    height: 50px;
+    margin-top:80px ;
+    float: right;
+    margin-right: 170px;
+    border: 2px solid white;
+    margin-top: -90px;
+    text-align: center;
+    color: white;
+   line-height: 50px;
+   font-weight: 600;
+
+}
+
+.boxright:hover{
+    color: black;
+    background-color: white;
+    font-weight: 600;
+  
+  
+}
+.elvocon{
+   font-size: 25px;
+   margin-top: 140px;
+   font-size: 50px;
+   font-weight: 500;
+   line-height: 10px;
+   margin-left: 200px;
+   color: white;
+
+
+}
+.thisis{
+    font-size: 20px;
+    color: white;
+    line-height: -90px;
+    margin-top: -30px;
+    margin-left: 200px;
+    
+}
+
+/* খন্ড ১৪ */
+
+.black {
+    width: 100%;
+    height: 150px;
+    background-color: #333333;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    padding-top: -40px;
+    
+}
+.create{
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+}
+.ankor {
+    color: #f4cb08;
+    font-weight: 400;
+    font-size: 15px;
+}
+
